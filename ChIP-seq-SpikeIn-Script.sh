@@ -1,5 +1,7 @@
 
 ## ChIP-seq Spike In Normalization Script - Justice et al 2020; Cell Reports
+## Author: Megan Justice
+## Contact: jilldowen@unc.edu
 
 module load bowtie
 module load bedtools
